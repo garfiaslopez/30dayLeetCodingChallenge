@@ -14,17 +14,17 @@ https://leetcode.com/explore/other/card/30-day-leetcoding-challenge
 
 5.- [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3287/)
 
-6.- [Counting Elements](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/)
+6.- [Group Anagrams](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3288/)
 
-7.-
+7.- [Counting Elements](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3289/)
 
 ## Week 2
 
-1.-
+1.- [Middle of the Linked List](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3290/)
 
-2.-
+2.- [Backspace String Compare](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3291/)
 
-3.-
+3.- 
 
 4.-
 

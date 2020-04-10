@@ -11,8 +11,6 @@
 
 using namespace std;
 
-
-//[1,3,2,3,5,0]
 int countingNumbers(vector<int>& numbers) {
     map<int,int> needToFind;
 
