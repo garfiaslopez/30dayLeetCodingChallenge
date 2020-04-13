@@ -28,7 +28,7 @@ https://leetcode.com/explore/other/card/30-day-leetcoding-challenge
 
 4.- [Diameter of Binary Tree](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3293/)
 
-5.-
+5.- [Last Stone Weight](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3294/)
 
 6.-
 
