@@ -30,7 +30,7 @@ https://leetcode.com/explore/other/card/30-day-leetcoding-challenge
 
 5.- [Last Stone Weight](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3294/)
 
-6.-
+6.- [Contiguous Array](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3295/)
 
 7.-
 
