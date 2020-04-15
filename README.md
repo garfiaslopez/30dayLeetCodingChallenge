@@ -32,7 +32,7 @@ https://leetcode.com/explore/other/card/30-day-leetcoding-challenge
 
 6.- [Contiguous Array](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3295/)
 
-7.-
+7.- [Perform String Shifts](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3296/)
 
 ## Week 3
 
