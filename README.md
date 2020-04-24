@@ -36,25 +36,25 @@ https://leetcode.com/explore/other/card/30-day-leetcoding-challenge
 
 ## Week 3
 
-1.- [Product of Array Except Self](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3296/)
+1.- [Product of Array Except Self](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/)
 
-2.-
+2.- [Valid Parenthesis String](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3301/)
 
-3.-
+3.- [Number of Islands](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3302/)
 
-4.-
+4.- [Minimum Path Sum](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3303/)
 
-5.-
+5.- [Search in Rotated Sorted Array](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3304/)
 
-6.-
+6.- [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3305/)
 
-7.-
+7.- [Leftmost Column with at Least a One](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3306/)
 
 ## Week 4
 
-1.-
+1.- [Subarray Sum Equals K](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/)
 
-2.-
+2.- [Bitwise AND of Numbers Range](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/)
 
 3.-
 
