@@ -1,4 +1,8 @@
 # LeetCode Challengues
 
-* [April Challengue (30 Problems)](april/README.md)
-* [May Challengue](may/README.md)
+* April (30/30)
+* May (31/31)
+* June (27/30)
+* July (16/31)
+* August (23/31)
+* September (5/30)
