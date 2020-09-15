@@ -1,4 +1,4 @@
-# LeetCode Challengues
+# LeetCode Challenges
 
 * April (30/30)
 * May (31/31)
