@@ -5,4 +5,4 @@
 * June (27/30)
 * July (16/31)
 * August (23/31)
-* September (5/30)
+* September (30/30)
